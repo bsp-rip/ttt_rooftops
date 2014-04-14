@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/MILFLR001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rooftops/c0_0_0"
+	}
+}

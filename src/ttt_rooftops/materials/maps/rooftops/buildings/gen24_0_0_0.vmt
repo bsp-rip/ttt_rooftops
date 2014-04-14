@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDINGS/GEN24.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rooftops/c0_0_0"
+	}
+}
